@@ -1,6 +1,11 @@
 {
+	"author": {
+		"name": "Sam Ackah",
+		"email": "yeitsam5@gmail.com",
+		"url": "https://github.com/Sackah/boilerplate-npm"
+	},
+	"description": "fcc npm challenge",
 	"name": "fcc-learn-npm-package-json",
-	"author": "Sam Ackah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
