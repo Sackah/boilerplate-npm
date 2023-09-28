@@ -1,9 +1,5 @@
 {
-	"author": {
-		"name": "Sam Ackah",
-		"email": "yeitsam5@gmail.com",
-		"github": "https://github.com/Sackah"
-	},
+	"author": "Sam Ackah",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
