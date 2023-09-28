@@ -5,6 +5,7 @@
 		"url": "https://github.com/Sackah/boilerplate-npm"
 	},
 	"description": "fcc npm challenge",
+	"keywords": ["freecodecamp", "challenge", "npm", "json"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
