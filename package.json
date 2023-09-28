@@ -6,6 +6,7 @@
 	},
 	"description": "fcc npm challenge",
 	"keywords": ["freecodecamp", "challenge", "npm", "json"],
+	"license": "Apache-2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
